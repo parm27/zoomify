@@ -1,0 +1,2 @@
+# zoomify
+fix for storymap
